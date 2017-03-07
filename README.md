@@ -1,5 +1,7 @@
 # Reverse Engineered, FFmpeg-based GoPro Hero4 Streaming Viewer
 
+A utility for viewing the low-latency live video stream from a GoPro HERO4 or HERO4+ over the built-in WiFi link on a Linux or OSX based computer.
+
 ## Requirements
  * GoPro Hero4 or newer
  * ffplay + ffmpeg libraries
